@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className=''>
       <header className='flex h-16 items-center justify-between'>
-        <Link href={'/'}>Remindly</Link>
+        <Link href={'/'}>Remindly-newly</Link>
         <div className=''>
           <SignedOut>
             <SignInButton />
