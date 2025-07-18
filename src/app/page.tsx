@@ -11,7 +11,7 @@ export default function Home() {
     <div className=''>
       <header className='flex h-16 items-center justify-between'>
         <Link href={'/'}>Remindly-newly</Link>
-        <div className=''>
+        <div className='border'>
           <SignedOut>
             <SignInButton />
             <SignUpButton>
